@@ -1,0 +1,1 @@
+# Style starter kit with basic configuration

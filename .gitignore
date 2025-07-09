@@ -1,0 +1,23 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Node modules
+node_modules/
+.pnpm/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+
