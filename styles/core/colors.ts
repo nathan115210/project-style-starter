@@ -61,7 +61,6 @@ const colorsMap = {
             700: '#FCA5A5',
             800: '#FECACA',
             900: '#FEE2E2',
-            1000: '#FEE2E3',
         },
         neutral: {
             100: '#111827',
